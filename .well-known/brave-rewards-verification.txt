@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: royalayne.github.io
+Token: 75fe1fbd305be66a512a69806f00e5e361d7f4583b6466356750f4e33c514a30
