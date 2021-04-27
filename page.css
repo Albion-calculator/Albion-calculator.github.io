@@ -13,6 +13,11 @@ h3 {
     text-align: center;
 }
 
+p {
+    color:darkslategrey;
+    text-align: center;
+}
+
 img {
   display: block;
   margin-left: auto;
