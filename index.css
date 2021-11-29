@@ -34,9 +34,8 @@ a {
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: blue;
-  color:black;
+  color:white;
 }
-
 
 .footer {
   position: fixed;
@@ -46,3 +45,17 @@ a {
   background-color:skyblue;
   color:black;
   text-align: center;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
